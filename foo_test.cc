@@ -3,5 +3,6 @@
 
 
 TEST(GoogleTestCi, Foo) {
+  //lol
   ASSERT_TRUE(true);
 }
